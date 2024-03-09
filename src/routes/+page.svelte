@@ -20,7 +20,7 @@
     <div class="flex h-full items-center justify-center p-6">
       <Alert.Root>
         <Terminal class="h-4 w-4" />
-        <Alert.Title>Coincite — Coming soon!</Alert.Title>
+        <Alert.Title>Coinsight — Coming soon!</Alert.Title>
         <Alert.Description
           >Expect a universe of innovation, a galaxy of creativity, and maybe, just maybe, a little bit of space magic.</Alert.Description
         >
